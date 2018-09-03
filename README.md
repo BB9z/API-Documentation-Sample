@@ -4,7 +4,9 @@
 
 ## 在 wiki 或其他平台撰写文档
 
-你可以使用 GitLab 或 GitHub 自带的 wiki 撰写文档。推荐使用 markdown 格式，本文后面的格式说明是基于 markdown 格式的。
+你可以使用 GitLab 或 GitHub 自带的 wiki 撰写文档，我写了[一个示例](https://github.com/BB9z/API-Documentation-Sample/wiki/README)，你可以在此基础上创建你的文档。
+
+本文的格式说明是基于 markdown 格式的。
 
 > Markdown 编辑推荐使用 [VSCode](https://code.visualstudio.com)，插件推荐 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
@@ -66,7 +68,7 @@
 
 ## 单独定义 Model，避免响应示例中贴大段的代码
 
-
+## 在更新接口的响应中直接返回更新后的结构
 
 ## Markdown 格式说明
 
@@ -78,8 +80,11 @@
 ## 目录
 
 * [登录注册](#SectionLogin)
+  * [发送登录注册短信](#SMSSend)
 
+## <a name="SectionLogin"></a>登录注册
 
+### <a name="SMSSend"></a>发送登录注册短信
 ```
 
 ### 一般的接口定义

@@ -1,9 +1,11 @@
 {
-  "info": {
-    "id": "UAnOiIAvB1keXOBFfvUezgIQ",
-    "name": "演示用户",
-    "sex": 1,
-    "avatar": "https://via.placeholder.com/160?text=Demo+Avatar"
-  },
-  "token": "eyJzdWIiOjMsImlzcyI6Imh0dHA6Ly96aGV"
+  "data": {
+    "info": {
+      "id": "UAnOiIAvB1keXOBFfvUezgIQ",
+      "name": "演示用户",
+      "sex": 1,
+      "avatar": "https://via.placeholder.com/160?text=Demo+Avatar"
+    },
+    "token": "eyJzdWIiOjMsImlzcyI6Imh0dHA6Ly96aGV"
+  }
 }

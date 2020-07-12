@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "id": "TPShared",
+      "title": "张三的帖子",
+      "content": "共享内容",
+      "author": {
+        "id": "UAuG-yXi1A5etk7anbGgN-qg",
+        "name": "张三"
+      },
+      "create_time": "2000-01-01T00:00:00Z",
+      "status": [
+        "locked"
+      ],
+      "allow_operations": [],
+      "comment_count": 0,
+      "like_count": 3,
+      "is_liked": false
+    }
+  ]
+}

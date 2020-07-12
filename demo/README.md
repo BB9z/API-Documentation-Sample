@@ -22,3 +22,5 @@
 [/account/otac/verify](account/otac/verify.json) | [重置密码前身份验证](../Sample/Account#OTACVerify)
 [/account/password/reset](account/password/reset.json) | [找回密码](../Sample/Account#PasswordReset)
 [/account/password](account/password.json) | [修改密码](../Sample/Account#PasswordChange)
+[/account/topics/1](account/topics/1.json) [2](account/topics/2.json) | [我的帖子列表](../Sample/Topic#TopicListMine)
+[/topics/recommended/1](/topics/recommended/1.json) | [推荐的帖子列表](../Sample/Topic#TopicListRecommended)

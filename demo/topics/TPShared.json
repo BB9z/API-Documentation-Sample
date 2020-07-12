@@ -1,0 +1,17 @@
+{
+  "data": 
+    {
+      "id": "TPShared",
+      "title": "共享帖子1",
+      "content": "自己的帖子",
+      "author": {
+        "id": "UAnOiIAvB1keXOBFfvUezgIQ",
+        "name": "演示用户"
+      },
+      "create_time": "2020-07-01T13:50:00Z",
+      "status": [],
+      "allow_operations": ["comment", "edit"],
+      "comment_count": 0,
+      "like_count": 0
+    }
+}

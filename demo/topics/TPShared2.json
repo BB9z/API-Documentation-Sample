@@ -1,0 +1,17 @@
+{
+  "data": 
+    {
+      "id": "TPShared2",
+      "title": "共享帖子2",
+      "content": "他人的帖子",
+      "author": {
+        "id": "UA54ufSwlR44ufCmtnkC29YQ",
+        "name": "路人甲"
+      },
+      "create_time": "2020-07-02T13:55:59Z",
+      "status": [],
+      "allow_operations": ["comment", "like", "forward"],
+      "comment_count": 5,
+      "like_count": 2
+    }
+}

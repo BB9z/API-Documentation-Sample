@@ -2,6 +2,7 @@
   "data": {
     "id": "UAnOiIAvB1keXOBFfvUezgIQ",
     "name": "演示用户",
+    "introduction": "数据是静态的，编辑无效\n本次数据来源用户信息",
     "sex": 1,
     "avatar": "https://via.placeholder.com/160?text=Demo+Avatar"
   }

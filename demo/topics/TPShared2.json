@@ -6,7 +6,8 @@
       "content": "他人的帖子",
       "author": {
         "id": "UA54ufSwlR44ufCmtnkC29YQ",
-        "name": "路人甲"
+        "name": "路人甲",
+        "avatar": "https://via.placeholder.com/160?text=User+01"
       },
       "create_time": "2020-07-02T13:55:59Z",
       "status": [],

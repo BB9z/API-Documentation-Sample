@@ -4,7 +4,8 @@
       "id": "CMjdERlo0Em4tad2FXy7Y3dc6-atML85yTF1PQTA",
       "from": {
         "id": "UAnOiIAvB1keXOBFfvUezgIQ",
-        "name": "演示用户"
+        "name": "演示用户",
+        "avatar": "https://via.placeholder.com/160?text=User+02"
       },
       "to": null,
       "create_time": "2000-01-01T00:00:00Z",
@@ -15,7 +16,8 @@
       "id": "CMwhdizsxFIolmDVblh4Wy0hsuW1yyfpkrPXQK5w",
       "from": {
         "id": "UAuG-yXi1A5etk7anbGgN-qg",
-        "name": "张三"
+        "name": "张三",
+        "avatar": "https://via.placeholder.com/160?text=User+03"
       },
       "to": null,
       "create_time": "2000-01-01T00:00:00Z",

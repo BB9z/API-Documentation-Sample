@@ -1,11 +1,13 @@
 {
-  "info": {
-    "id": "UAnOiIAvB1keXOBFfvUezgIQ",
-    "name": "演示用户",
-    "introduction": "数据是静态的，编辑无效\n本次数据来源登入注册",
-    "sex": 1,
-    "avatar": "https://via.placeholder.com/160?text=Demo+Avatar"
-  },
-  "is_new": false,
-  "token": "eyJzdWIiOjMsImlzcyI6Imh0dHA6Ly96aGV"
+  "data": {
+    "info": {
+      "id": "UAnOiIAvB1keXOBFfvUezgIQ",
+      "name": "演示用户",
+      "introduction": "数据是静态的，编辑无效\n本次数据来源登入注册",
+      "sex": 1,
+      "avatar": "https://via.placeholder.com/160?text=Demo+Avatar"
+    },
+    "is_new": false,
+    "token": "eyJzdWIiOjMsImlzcyI6Imh0dHA6Ly96aGV"
+  }
 }

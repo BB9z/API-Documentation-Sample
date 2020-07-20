@@ -3,7 +3,7 @@
     {
       "id": "TPShared2",
       "title": "共享帖子2",
-      "content": "他人的帖子",
+      "content": "他人的帖子\n列表中点赞进详情数量会还原，因为数据是静态的，在详情点赞返回列表会本地刷新",
       "author": {
         "id": "UA54ufSwlR44ufCmtnkC29YQ",
         "name": "路人甲",

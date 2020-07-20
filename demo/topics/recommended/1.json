@@ -21,7 +21,7 @@
     {
       "id": "TPShared2",
       "title": "共享帖子2",
-      "content": "他人的帖子",
+      "content": "他人的帖子\n列表中点赞进详情数量会还原，因为数据是静态的，在详情点赞返回列表会本地刷新",
       "author": {
         "id": "UA54ufSwlR44ufCmtnkC29YQ",
         "name": "路人甲",
@@ -36,6 +36,19 @@
       ],
       "comment_count": 5,
       "like_count": 2
+    },
+    {
+      "id": "TP404",
+      "title": "已删除的帖子",
+      "content": "点进详情应提示删除并返回",
+      "author": {
+        "id": "UAnOiIAvB1keXOBFfvUezgIQ",
+        "name": "演示用户",
+        "avatar": "https://via.placeholder.com/160?text=User+02"
+      },
+      "create_time": "2020-07-17T13:55:59Z",
+      "is_liked": true,
+      "like_count": 1
     }
   ]
 }
